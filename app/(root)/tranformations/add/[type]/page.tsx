@@ -1,9 +1,9 @@
-import React from 'react'
+import Header from "@/components/shared/Header";
 
 const AddTransformationsTypePage = () => {
   return (
-    <div>AddTransformationsTypePage</div>
-  )
-}
+    <Header title="Transformation Title" subtitle="Transformation Title" />
+  );
+};
 
-export default AddTransformationsTypePage
+export default AddTransformationsTypePage;
