@@ -1,9 +1,6 @@
-import React from 'react'
-
-const CreditPage = () => {
+const Credits = () => {
   return (
-    <div>CreditPage</div>
+    <div>Credits</div>
   )
 }
-
-export default CreditPage
+export default Credits
