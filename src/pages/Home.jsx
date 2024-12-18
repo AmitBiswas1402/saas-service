@@ -1,4 +1,5 @@
 import BgSlider from "../components/bgSlider"
+import Footer from "../components/Footer"
 import Header from "../components/Header"
 import Steps from "../components/Steps"
 import Upload from "../components/Upload"
@@ -10,6 +11,7 @@ const Home = () => {
       <Steps />
       <BgSlider />
       <Upload />
+      <Footer />
     </div>
   )
 }
