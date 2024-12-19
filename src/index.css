@@ -17,3 +17,8 @@
     background-position: no-repeat;
     background-size: cover;
 }
+
+.bg-layer {
+    background-image: url(/bg-layer.png);
+    
+}
