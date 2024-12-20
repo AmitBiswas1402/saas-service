@@ -5,6 +5,7 @@ import Home from './pages/Home'
 import Result from './pages/Result'
 import BuyCredit from './pages/BuyCredit'
 import Footer from './components/Footer'
+import { SignInButton } from '@clerk/clerk-react'
 
 function App() {
 
